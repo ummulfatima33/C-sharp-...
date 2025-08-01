@@ -1,0 +1,8 @@
+C:\Users\DELL\OneDrive\Pictures\C#\variables&dataTypes\variables&dataTypes\bin\Debug\variables&dataTypes.exe.config
+C:\Users\DELL\OneDrive\Pictures\C#\variables&dataTypes\variables&dataTypes\bin\Debug\variables&dataTypes.exe
+C:\Users\DELL\OneDrive\Pictures\C#\variables&dataTypes\variables&dataTypes\bin\Debug\variables&dataTypes.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\variables&dataTypes\variables&dataTypes\obj\Debug\variables&dataTypes.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Pictures\C#\variables&dataTypes\variables&dataTypes\obj\Debug\variables&dataTypes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\variables&dataTypes\variables&dataTypes\obj\Debug\variables&dataTypes.exe
+C:\Users\DELL\OneDrive\Pictures\C#\variables&dataTypes\variables&dataTypes\obj\Debug\variables&dataTypes.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\variables&dataTypes\variables&dataTypes\obj\Debug\variables&dataTypes.exe.config

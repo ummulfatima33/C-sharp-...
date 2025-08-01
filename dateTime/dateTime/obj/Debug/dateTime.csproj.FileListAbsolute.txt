@@ -1,0 +1,8 @@
+C:\Users\DELL\OneDrive\Pictures\C#\dateTime\dateTime\bin\Debug\dateTime.exe.config
+C:\Users\DELL\OneDrive\Pictures\C#\dateTime\dateTime\bin\Debug\dateTime.exe
+C:\Users\DELL\OneDrive\Pictures\C#\dateTime\dateTime\bin\Debug\dateTime.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\dateTime\dateTime\obj\Debug\dateTime.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Pictures\C#\dateTime\dateTime\obj\Debug\dateTime.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\dateTime\dateTime\obj\Debug\dateTime.exe
+C:\Users\DELL\OneDrive\Pictures\C#\dateTime\dateTime\obj\Debug\dateTime.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\dateTime\dateTime\obj\Debug\dateTime.exe.config

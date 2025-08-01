@@ -1,0 +1,8 @@
+C:\Users\DELL\OneDrive\Pictures\C#\moreOperators\moreOperators\bin\Debug\moreOperators.exe.config
+C:\Users\DELL\OneDrive\Pictures\C#\moreOperators\moreOperators\bin\Debug\moreOperators.exe
+C:\Users\DELL\OneDrive\Pictures\C#\moreOperators\moreOperators\bin\Debug\moreOperators.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\moreOperators\moreOperators\obj\Debug\moreOperators.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Pictures\C#\moreOperators\moreOperators\obj\Debug\moreOperators.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\moreOperators\moreOperators\obj\Debug\moreOperators.exe
+C:\Users\DELL\OneDrive\Pictures\C#\moreOperators\moreOperators\obj\Debug\moreOperators.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\moreOperators\moreOperators\obj\Debug\moreOperators.exe.config
