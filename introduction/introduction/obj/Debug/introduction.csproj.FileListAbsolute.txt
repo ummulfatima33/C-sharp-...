@@ -1,0 +1,8 @@
+C:\Users\DELL\OneDrive\Pictures\C#\introduction\introduction\bin\Debug\introduction.exe.config
+C:\Users\DELL\OneDrive\Pictures\C#\introduction\introduction\bin\Debug\introduction.exe
+C:\Users\DELL\OneDrive\Pictures\C#\introduction\introduction\bin\Debug\introduction.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\introduction\introduction\obj\Debug\introduction.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Pictures\C#\introduction\introduction\obj\Debug\introduction.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\introduction\introduction\obj\Debug\introduction.exe
+C:\Users\DELL\OneDrive\Pictures\C#\introduction\introduction\obj\Debug\introduction.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\introduction\introduction\obj\Debug\introduction.exe.config
