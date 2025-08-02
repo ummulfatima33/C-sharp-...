@@ -1,0 +1,8 @@
+C:\Users\DELL\OneDrive\Pictures\C#\selectionConstruct(NestedSwitchCase)\selectionConstruct(NestedSwitchCase)\bin\Debug\selectionConstruct(NestedSwitchCase).exe.config
+C:\Users\DELL\OneDrive\Pictures\C#\selectionConstruct(NestedSwitchCase)\selectionConstruct(NestedSwitchCase)\bin\Debug\selectionConstruct(NestedSwitchCase).exe
+C:\Users\DELL\OneDrive\Pictures\C#\selectionConstruct(NestedSwitchCase)\selectionConstruct(NestedSwitchCase)\bin\Debug\selectionConstruct(NestedSwitchCase).pdb
+C:\Users\DELL\OneDrive\Pictures\C#\selectionConstruct(NestedSwitchCase)\selectionConstruct(NestedSwitchCase)\obj\Debug\selectionConstruct(NestedSwitchCase).csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Pictures\C#\selectionConstruct(NestedSwitchCase)\selectionConstruct(NestedSwitchCase)\obj\Debug\selectionConstruct(NestedSwitchCase).csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\selectionConstruct(NestedSwitchCase)\selectionConstruct(NestedSwitchCase)\obj\Debug\selectionConstruct(NestedSwitchCase).exe
+C:\Users\DELL\OneDrive\Pictures\C#\selectionConstruct(NestedSwitchCase)\selectionConstruct(NestedSwitchCase)\obj\Debug\selectionConstruct(NestedSwitchCase).pdb
+C:\Users\DELL\OneDrive\Pictures\C#\selectionConstruct(NestedSwitchCase)\selectionConstruct(NestedSwitchCase)\obj\Debug\selectionConstruct(NestedSwitchCase).exe.config
