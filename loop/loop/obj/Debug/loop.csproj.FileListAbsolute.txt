@@ -1,0 +1,8 @@
+C:\Users\DELL\OneDrive\Pictures\C#\loop\loop\bin\Debug\loop.exe.config
+C:\Users\DELL\OneDrive\Pictures\C#\loop\loop\bin\Debug\loop.exe
+C:\Users\DELL\OneDrive\Pictures\C#\loop\loop\bin\Debug\loop.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\loop\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Pictures\C#\loop\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\loop\loop\obj\Debug\loop.exe
+C:\Users\DELL\OneDrive\Pictures\C#\loop\loop\obj\Debug\loop.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\loop\loop\obj\Debug\loop.exe.config
