@@ -1,0 +1,8 @@
+C:\Users\DELL\OneDrive\Pictures\C#\classes&objects\classes&objects\bin\Debug\classes&objects.exe.config
+C:\Users\DELL\OneDrive\Pictures\C#\classes&objects\classes&objects\bin\Debug\classes&objects.exe
+C:\Users\DELL\OneDrive\Pictures\C#\classes&objects\classes&objects\bin\Debug\classes&objects.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\classes&objects\classes&objects\obj\Debug\classes&objects.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Pictures\C#\classes&objects\classes&objects\obj\Debug\classes&objects.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\classes&objects\classes&objects\obj\Debug\classes&objects.exe
+C:\Users\DELL\OneDrive\Pictures\C#\classes&objects\classes&objects\obj\Debug\classes&objects.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\classes&objects\classes&objects\obj\Debug\classes&objects.exe.config
