@@ -1,0 +1,8 @@
+C:\Users\DELL\OneDrive\Pictures\C#\multiDimensionalArray(rectangular)\multiDimensionalArray(rectangular)\bin\Debug\multiDimensionalArray(rectangular).exe.config
+C:\Users\DELL\OneDrive\Pictures\C#\multiDimensionalArray(rectangular)\multiDimensionalArray(rectangular)\bin\Debug\multiDimensionalArray(rectangular).exe
+C:\Users\DELL\OneDrive\Pictures\C#\multiDimensionalArray(rectangular)\multiDimensionalArray(rectangular)\bin\Debug\multiDimensionalArray(rectangular).pdb
+C:\Users\DELL\OneDrive\Pictures\C#\multiDimensionalArray(rectangular)\multiDimensionalArray(rectangular)\obj\Debug\multiDimensionalArray(rectangular).csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Pictures\C#\multiDimensionalArray(rectangular)\multiDimensionalArray(rectangular)\obj\Debug\multiDimensionalArray(rectangular).csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\multiDimensionalArray(rectangular)\multiDimensionalArray(rectangular)\obj\Debug\multiDimensionalArray(rectangular).exe
+C:\Users\DELL\OneDrive\Pictures\C#\multiDimensionalArray(rectangular)\multiDimensionalArray(rectangular)\obj\Debug\multiDimensionalArray(rectangular).pdb
+C:\Users\DELL\OneDrive\Pictures\C#\multiDimensionalArray(rectangular)\multiDimensionalArray(rectangular)\obj\Debug\multiDimensionalArray(rectangular).exe.config
