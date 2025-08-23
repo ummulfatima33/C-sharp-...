@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\bin\Debug\net8.0\inheritance.dll
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\bin\Debug\net8.0\inheritance.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.dll
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Pictures\C#\inheritance\inheritance\obj\Debug\net8.0\ref\inheritance.dll
