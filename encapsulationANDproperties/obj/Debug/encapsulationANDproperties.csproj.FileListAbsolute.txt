@@ -1,0 +1,8 @@
+C:\Users\DELL\OneDrive\Pictures\C#\encapsulationANDproperties\bin\Debug\encapsulationANDproperties.exe.config
+C:\Users\DELL\OneDrive\Pictures\C#\encapsulationANDproperties\bin\Debug\encapsulationANDproperties.exe
+C:\Users\DELL\OneDrive\Pictures\C#\encapsulationANDproperties\bin\Debug\encapsulationANDproperties.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\encapsulationANDproperties\obj\Debug\encapsulationANDproperties.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Pictures\C#\encapsulationANDproperties\obj\Debug\encapsulationANDproperties.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\encapsulationANDproperties\obj\Debug\encapsulationANDproperties.exe
+C:\Users\DELL\OneDrive\Pictures\C#\encapsulationANDproperties\obj\Debug\encapsulationANDproperties.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\encapsulationANDproperties\obj\Debug\encapsulationANDproperties.exe.config
