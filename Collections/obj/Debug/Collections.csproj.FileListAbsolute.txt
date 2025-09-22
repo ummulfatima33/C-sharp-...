@@ -1,0 +1,8 @@
+C:\Users\DELL\OneDrive\Pictures\C#\Collections\bin\Debug\Collections.exe.config
+C:\Users\DELL\OneDrive\Pictures\C#\Collections\bin\Debug\Collections.exe
+C:\Users\DELL\OneDrive\Pictures\C#\Collections\bin\Debug\Collections.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Pictures\C#\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Pictures\C#\Collections\obj\Debug\Collections.exe
+C:\Users\DELL\OneDrive\Pictures\C#\Collections\obj\Debug\Collections.pdb
+C:\Users\DELL\OneDrive\Pictures\C#\Collections\obj\Debug\Collections.exe.config
